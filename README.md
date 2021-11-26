@@ -11,7 +11,7 @@
 * Para su ejecucion el IDE Netbeans se debe abrir el proyecto y agregar el framework Spring MVC y ejecutar en un servidor GlasFish Server 4.1.1 
 * En el archivo Conexion.java se configura la ruta donde se este ejecutando el servidor de baseDeDatos , no olvidar agregar el MysqlDriverJdbcConnector.
 * Ejecutarlo, en la consola aparcera la ruta de acceso al programa
-## Soporte Instrucciones:
+## Soporte Instrucciones CONFIGURACIÓN INICIAL:
 * Paso a paso:
 ![Net1](https://user-images.githubusercontent.com/95037321/143528833-c05432e2-0f97-470a-82d8-27ff609403fc.jpeg)
 ![Net2](https://user-images.githubusercontent.com/95037321/143528840-d81c3756-e8bb-4b75-9254-e4ff914b77aa.jpeg)

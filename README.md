@@ -12,6 +12,9 @@
 * En el archivo Conexion.java se configura la ruta donde se este ejecutando el servidor de baseDeDatos , no olvidar agregar el MysqlDriverJdbcConnector.
 * Ejecutarlo, en la consola aparcera la ruta de acceso al programa
 ## Evidencias:
+* Clases Modelo Vista Controlador (MVC) UML
+![Diagrama UML de Clases](https://user-images.githubusercontent.com/95037321/143528511-516a6f4c-e6c3-4a92-9144-23aa92dbe8be.png)
+
 * Diagrama Base de Datos
 ![modelo relacional](https://user-images.githubusercontent.com/95037321/143525561-96f56145-8a06-4651-ace1-cc7c23300496.PNG)
 

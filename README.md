@@ -13,6 +13,13 @@
 * Ejecutarlo, en la consola aparcera la ruta de acceso al programa
 ## Soporte Instrucciones:
 * Paso a paso:
+![Net1](https://user-images.githubusercontent.com/95037321/143528833-c05432e2-0f97-470a-82d8-27ff609403fc.jpeg)
+![Net2](https://user-images.githubusercontent.com/95037321/143528840-d81c3756-e8bb-4b75-9254-e4ff914b77aa.jpeg)
+![Net3](https://user-images.githubusercontent.com/95037321/143528853-e659b19e-46fd-4dd5-bf6a-834fb84ae72b.jpeg)
+![Net4](https://user-images.githubusercontent.com/95037321/143528869-62e76156-d706-4f64-b607-e5b0f99bfbc3.jpeg)
+![Net5](https://user-images.githubusercontent.com/95037321/143528884-51508790-c7f5-485b-81f6-4d04fdba19ba.jpeg)
+![Net6](https://user-images.githubusercontent.com/95037321/143528894-fb480873-844f-404d-b6e3-26a50556144a.jpeg)
+
 
 ## Evidencias:
 * Clases Modelo Vista Controlador (MVC) UML

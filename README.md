@@ -5,5 +5,6 @@
 * En el archvo Conexion.java se configura la ruta donde se este ejecutando el servidor de baseDeDatos , no olvidar agregar el MysqlDriverJdbcConnector.
 * Ejecutarlo, en la consola aparcera la ruta de acceso al programa
 
+![asignacion de trabajador a un servicio despues](https://user-images.githubusercontent.com/95037321/143524049-2b48f87f-a838-411b-b033-9ca256b08c9d.PNG)
 
  

@@ -1,10 +1,10 @@
 # LavaderoMVC
 ## Integrantes:
--Braian Santiago Arevalo Buitrago
--Julian David Gonzalez Esteban
--German Andres Balaguera Pinzon
--Daniel Andres Beitar Santos
--Cristian Camilo Gomez Abreu
+- Braian Santiago Arevalo Buitrago
+- Julian David Gonzalez Esteban
+- German Andres Balaguera Pinzon
+- Daniel Andres Beitar Santos
+- Cristian Camilo Gomez Abreu
 ## Instrucciones:
 * Este es el proyecto en su version final del Lavadero la Estrella , PROGRAMACIÓN 2 
 * Para ejecutar este proyecto se debe crear una base de datos en Mysql la cual se encuentra en el archivo baseDeDatos
